@@ -1,0 +1,21 @@
+{
+  "name": "iustusae-hl1",
+  "displayName": "iustusae-hl1",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "iustusae-hl1",
+        "uiTheme": "vs-dark",
+        "path": "./themes/iustusae-hl1-color-theme.json"
+      }
+    ]
+  }
+}
